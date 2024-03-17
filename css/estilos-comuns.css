@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: limegreen;
+    font-size: 28px;
+}
+
+body {
+    background-image: url("./../imagens/fundo.png");
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+

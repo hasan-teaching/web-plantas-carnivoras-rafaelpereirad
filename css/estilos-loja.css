@@ -1,0 +1,15 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px
+  }
+  th, td {
+    border-top: 2px solid silver;
+    border-bottom: 2px solid silver;
+    border-left: 2px solid silver;
+    border-right: 2px solid silver;
+  }
+
+
